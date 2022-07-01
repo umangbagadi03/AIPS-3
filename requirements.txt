@@ -122,5 +122,5 @@ watchdog==2.1.9
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.1
-zipp==3.8.0
+
 txtai @ git+https://github.com/neuml/txtai@a7aed3cf46d2886d6c713b23a51d7adb13429b0e
